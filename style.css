@@ -1,0 +1,23 @@
+body {
+  background: #e5e5e5;
+}
+
+.primary-color {
+  color: #6070ff !important;
+}
+
+.secondary-color {
+  color: #344563 !important;
+}
+
+#headline {
+  height: calc(100vh - 56px);
+  background-image: url('./assets/images/Header-bg.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-bottom-left-radius: 80px !important;
+}
+
+.headline-section {
+  height: 100%;
+}
