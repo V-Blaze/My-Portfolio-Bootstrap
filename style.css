@@ -34,6 +34,12 @@ body {
   font-size: 17px !important;
 }
 
+.btn-languages {
+  background-color: #f7f7f9 !important;
+  width: 122px !important;
+  height: 120px !important;
+}
+
 .my-6 {
   margin: 142px auto !important;
 }
