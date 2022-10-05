@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  background: #e5e5e5;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+}
+
+.primary-color {
+  color: #6070ff !important;
+}
+
+.secondary-color {
+  color: #344563 !important;
+}
+
+#headline {
+  height: calc(100vh - 56px);
+  background-image: url('./assets/images/Header-bg.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-bottom-left-radius: 80px !important;
+}
+
+.headline-section {
+  height: 100%;
+}
+
+.bg-primary {
+  background-color: #ebebff !important;
+  color: #6070ff !important;
+}
+
+.btn-primary {
+  color: #396df2 !important;
+  background-color: #fff !important;
+  padding: 12px !important;
+  font-size: 17px !important;
+}
+
+.btn-languages {
+  background-color: #f7f7f9 !important;
+  width: 122px !important;
+  height: 120px !important;
+}
+
+.my-6 {
+  margin: 142px auto !important;
+}
+
+textarea {
+  resize: none !important;
+}
+
+#contact {
+  background-color: #6070ff;
+  background-image: url('./assets/images/contact-form-background-shapes.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-top-left-radius: 80px !important;
+}
