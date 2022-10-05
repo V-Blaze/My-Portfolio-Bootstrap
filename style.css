@@ -21,3 +21,19 @@ body {
 .headline-section {
   height: 100%;
 }
+
+.bg-primary {
+  background-color: #ebebff !important;
+  color:#6070ff !important;
+}
+
+.btn-primary {
+  color: #396df2 !important;
+  background-color: #fff !important;
+  padding: 12px !important;
+  font-size: 17px !important;
+}
+
+.my-6 {
+  margin: 142px auto !important;
+}
